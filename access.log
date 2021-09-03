@@ -1,0 +1,48 @@
+2021-08-26 23:03:20,538 [main] INFO  c.p.j.J.JwtApiServiceApplication                   - Starting JwtApiServiceApplication using Java 1.8.0_172 on HYD-LT-CG33KT2 with PID 35712 (D:\myWork\docs\Personal\Projects\JWTApiService\target\classes started by adandekar in D:\myWork\docs\Personal\Projects\JWTApiService)
+2021-08-26 23:03:20,540 [main] INFO  c.p.j.J.JwtApiServiceApplication                   - No active profile set, falling back to default profiles: default
+2021-08-26 23:03:21,082 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-08-26 23:03:21,098 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Finished Spring Data repository scanning in 5 ms. Found 0 JPA repository interfaces.
+2021-08-26 23:03:21,569 [main] INFO  o.hibernate.jpa.internal.util.LogHelper            - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-08-26 23:03:21,625 [main] INFO  org.hibernate.Version                              - HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-08-26 23:03:21,772 [main] INFO  org.hibernate.annotations.common.Version           - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-26 23:03:22,258 [main] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Starting...
+2021-08-26 23:03:22,433 [main] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Start completed.
+2021-08-26 23:03:22,465 [main] INFO  org.hibernate.dialect.Dialect                      - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-08-26 23:03:22,746 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator                 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-26 23:03:22,756 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-08-26 23:03:22,842 [main] INFO  c.p.j.J.JwtApiServiceApplication                   - Started JwtApiServiceApplication in 2.752 seconds (JVM running for 3.373)
+2021-08-26 23:03:22,847 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-08-26 23:03:22,849 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Shutdown initiated...
+2021-08-26 23:03:22,851 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Shutdown completed.
+2021-08-26 23:05:57,990 [main] INFO  c.p.j.J.JwtApiServiceApplication                   - Starting JwtApiServiceApplication using Java 1.8.0_172 on HYD-LT-CG33KT2 with PID 10032 (D:\myWork\docs\Personal\Projects\JWTApiService\target\classes started by adandekar in D:\myWork\docs\Personal\Projects\JWTApiService)
+2021-08-26 23:05:57,992 [main] INFO  c.p.j.J.JwtApiServiceApplication                   - No active profile set, falling back to default profiles: default
+2021-08-26 23:05:58,602 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-08-26 23:05:58,620 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Finished Spring Data repository scanning in 6 ms. Found 0 JPA repository interfaces.
+2021-08-26 23:05:59,089 [main] INFO  o.hibernate.jpa.internal.util.LogHelper            - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-08-26 23:05:59,142 [main] INFO  org.hibernate.Version                              - HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-08-26 23:05:59,334 [main] INFO  org.hibernate.annotations.common.Version           - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-26 23:05:59,823 [main] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Starting...
+2021-08-26 23:06:00,033 [main] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Start completed.
+2021-08-26 23:06:00,063 [main] INFO  org.hibernate.dialect.Dialect                      - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-08-26 23:06:00,359 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator                 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-26 23:06:00,370 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-08-26 23:06:00,457 [main] INFO  c.p.j.J.JwtApiServiceApplication                   - Started JwtApiServiceApplication in 2.882 seconds (JVM running for 3.503)
+2021-08-26 23:06:00,462 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-08-26 23:06:00,465 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Shutdown initiated...
+2021-08-26 23:06:00,467 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Shutdown completed.
+2021-08-26 23:06:11,398 [main] INFO  c.p.j.J.JwtApiServiceApplication                   - Starting JwtApiServiceApplication using Java 1.8.0_172 on HYD-LT-CG33KT2 with PID 33288 (D:\myWork\docs\Personal\Projects\JWTApiService\target\classes started by adandekar in D:\myWork\docs\Personal\Projects\JWTApiService)
+2021-08-26 23:06:11,402 [main] INFO  c.p.j.J.JwtApiServiceApplication                   - No active profile set, falling back to default profiles: default
+2021-08-26 23:06:12,065 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-08-26 23:06:12,091 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate          - Finished Spring Data repository scanning in 7 ms. Found 0 JPA repository interfaces.
+2021-08-26 23:06:12,581 [main] INFO  o.hibernate.jpa.internal.util.LogHelper            - HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-08-26 23:06:12,649 [main] INFO  org.hibernate.Version                              - HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-08-26 23:06:12,820 [main] INFO  org.hibernate.annotations.common.Version           - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-26 23:06:13,299 [main] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Starting...
+2021-08-26 23:06:13,517 [main] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Start completed.
+2021-08-26 23:06:13,560 [main] INFO  org.hibernate.dialect.Dialect                      - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-08-26 23:06:13,988 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator                 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-26 23:06:14,001 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-08-26 23:06:14,106 [main] INFO  c.p.j.J.JwtApiServiceApplication                   - Started JwtApiServiceApplication in 3.308 seconds (JVM running for 4.152)
+2021-08-26 23:06:14,114 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean     - Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-08-26 23:06:14,117 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Shutdown initiated...
+2021-08-26 23:06:14,119 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource                 - HikariPool-1 - Shutdown completed.
